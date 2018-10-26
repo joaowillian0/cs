@@ -40,3 +40,9 @@ int LinkedListAdd(ListNode* Head, ListNode* New)
     
     return 0;
 }
+
+int main(int argc, char const *argv[])
+{
+    
+    return 0;
+}
